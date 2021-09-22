@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+    <string name="linearview">Linearview</string>
+    <string name="gridview">Gridview</string>
+</resources>
